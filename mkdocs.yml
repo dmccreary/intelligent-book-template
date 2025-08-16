@@ -9,7 +9,7 @@ edit_uri: 'blob/master/docs'
 nav:
   - Home: index.md
   - About This Site: about.md
-  - Course Desscription: course-description.md
+  - Course Description: course-description.md
   - Getting Started: getting-started.md
   - Chapters:
     - Table of Contents: chapters/index.md
@@ -24,12 +24,11 @@ nav:
     - Template: sims/template/index.md
   - GenAI Prompts:
     - List of Prompts: prompts/index.md
-    - Course Description: prompts/prompt_01.md
-    - Enumerated Concepts: prompts/prompt_02.md
-    - Dependency Graph: prompts/prompt_03.md
-    - 
-    - Template: prompts/template.md
-  - Checklist: checklist.md
+    - Course Description: prompts/01-course-description.md
+    - Enumerated Concepts: prompts/02-enumerated-concepts.md
+    - Dependency Graph: prompts/03-dependency-graph.md
+    - Taxonomy Prompt: prompts/04-taxonomy.md
+  - Customization Checklist: checklist.md
   - Code Highlight Test: code-highlight-test.md
   - Glossary: glossary.md
   - How We Built This Site: how-we-built-this-site.md
