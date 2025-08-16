@@ -22,6 +22,13 @@ nav:
     - MicroSim 2: sims/name_02/index.md
     - MicroSim 3: sims/name_03/index.md
     - Template: sims/template/index.md
+  - GenAI Prompts:
+    - List of Prompts: prompts/index.md
+    - Course Description: prompts/prompt_01.md
+    - Enumerated Concepts: prompts/prompt_02.md
+    - Dependency Graph: prompts/prompt_03.md
+    - 
+    - Template: prompts/template.md
   - Checklist: checklist.md
   - Code Highlight Test: code-highlight-test.md
   - Glossary: glossary.md
