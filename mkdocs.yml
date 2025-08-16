@@ -1,0 +1,76 @@
+site_name: Mkdocs Template Site
+site_description: 'DESCRIPTION All content licensed Creative Commons ShareAlike Attribution Noncommercial'
+site_author: 'Dan McCreary'
+repo_name: 'GitHub Repo'
+site_url: 'https://dmccreary.github.io/intelligent-book-template/'
+repo_url: 'https://github.com/dmccreary/intelligent-book-template'
+edit_uri: 'blob/master/docs'
+
+nav:
+  - Home: index.md
+  - About This Site: about.md
+  - Course Desscription: course-description.md
+  - Getting Started: getting-started.md
+  - Chapters:
+    - Table of Contents: chapters/index.md
+    - Chapter 1: chapters/chapter01/index.md
+    - Chapter 2: chapters/chapter02/index.md
+    - Chapter 3: chapters/chapter03/index.md
+  - MicroSims:
+    - List of MicroSims: sims/index.md
+    - MicroSim 1: sims/name_01/index.md
+    - MicroSim 2: sims/name_02/index.md
+    - MicroSim 3: sims/name_03/index.md
+    - Template: sims/template/index.md
+  - Checklist: checklist.md
+  - Code Highlight Test: code-highlight-test.md
+  - Glossary: glossary.md
+  - How We Built This Site: how-we-built-this-site.md
+  - License: license.md
+  - Acknowledgements: acknowledgements.md
+  - References: references.md
+  - Contact: contact.md
+ 
+# CoderDojo Microsite Standards from here down
+
+theme:
+  name: material
+  extra_css:
+    - styles/custom.css
+  logo: img/logo.png
+  favicon: img/favicon.ico
+  features:
+  palette:
+    primary: 'blue'
+    accent: 'orange'
+  include_sidebar: true
+  features:
+    - content.code.copy
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - navigation.footer
+    - content.action.edit
+plugins:
+  - search
+#  - social
+markdown_extensions:
+  - admonition
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.highlight:
+      linenums: true
+extra_css:
+   - css/extra.css
+extra_javascripts:
+   - js/extra.css
+#extra:
+#  analytics:
+#    provider: google
+# get your property ID here: https://analytics.google.com/
+#    property: G-XXXX
