@@ -1,5 +1,5 @@
-site_name: Mkdocs Template Site
-site_description: 'DESCRIPTION All content licensed Creative Commons ShareAlike Attribution Noncommercial'
+site_name: Intelligent Book Template
+site_description: 'This is an intelligent book template for creating interactive intelligent textbooks with MkDocs and Material for MkDocs.'
 site_author: 'Dan McCreary'
 repo_name: 'GitHub Repo'
 site_url: 'https://dmccreary.github.io/intelligent-book-template/'
