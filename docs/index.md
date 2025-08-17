@@ -1,6 +1,6 @@
 # Intelligent Book Template
 
-![](./img/cover.png)
+![](./img/cover.jpg)
 
 Welcome to our intelligent textbook website.
 
