@@ -29,7 +29,7 @@ nav:
     - Dependency Graph: prompts/03-dependency-graph.md
     - Taxonomy Prompt: prompts/04-taxonomy.md
   - Customization Checklist: checklist.md
-  - FAQs: - faqs.md
+  - FAQs: faqs.md
   - Glossary: glossary.md
   - How We Built This Site: how-we-built-this-site.md
   - License: license.md
