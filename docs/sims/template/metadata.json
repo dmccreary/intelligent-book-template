@@ -35,5 +35,29 @@
   "visualizationType": [
     "graph",
     "map"
-  ]
+  ],
+  "learningObjectives": [
+    "Understand the mathematical concept of name in 120 chars or less",
+    "Apply name in 120 chars or less to solve problems",
+    "Visualize and interpret name in 120 chars or less relationships",
+    "Test understanding of name in 120 chars or less through interactive exercises"
+  ],
+  "pedagogical": {
+    "pattern": "guided-discovery",
+    "bloomAlignment": [
+      "understand",
+      "apply"
+    ],
+    "bloomVerbs": [
+      "explain",
+      "use"
+    ],
+    "pacing": "self-paced",
+    "supportsPrediction": false,
+    "dataVisibility": "medium",
+    "feedbackType": [
+      "corrective"
+    ],
+    "interactionStyle": "construct"
+  }
 }
